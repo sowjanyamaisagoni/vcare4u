@@ -1,0 +1,45 @@
+{
+  "name": "hospital-queueing-system",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.1",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.6.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.23.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^1.19.4",
+    "path": "^0.12.7",
+    "pg": "^7.18.2",
+    "pg-hstore": "^2.3.4",
+    "postgresql": "^0.0.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.7.0",
+    "react-datepicker": "^2.16.0",
+    "react-dom": "^16.7.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "reactstrap": "^7.1.0",
+    "sequelize": "^4.44.4",
+    "sequelize-cli": "^5.5.1",
+    "socket.io": "^2.4.1",
+    "socket.io-client": "^2.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
